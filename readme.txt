@@ -24,4 +24,3 @@ Pullt den Ordner (getan)
 Kommentiert jede Sourcecode-Datei mit @file
 Kommentiert jede Funktion mit @brief, @param und ggf. @return
 Schaut euch die HTML-Dokumentation an
-Bonus: Um Diagramme zu bekommen, Bearbeitet das Doxfile und aktiviert HAVE_DOT (Grundvoraussetzung), INCLUDE_GRAPH, CALL_GRAPH und CALLER_GRAPH
